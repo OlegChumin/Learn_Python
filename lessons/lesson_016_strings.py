@@ -31,3 +31,8 @@ long_string = "This is the long string"
 print(long_string.split())
 print(long_string.split('s'))
 
+path = "Hello Python" + '!'
+print(path)
+
+print('z' * 7)
+print('z'.upper() * 7)
