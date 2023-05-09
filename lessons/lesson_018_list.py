@@ -13,3 +13,17 @@ some_list[2] = 'hi'
 print(some_list)
 new_list = some_list + another_list
 print(new_list)
+
+#adding items
+new_list.append('new item')
+print(new_list)
+new_list.insert(0, 'start')
+print(new_list)
+
+#removing items
+new_list.pop(-1)
+print(new_list)
+deleted_item = new_list.pop(-2)
+print(new_list)
+print(deleted_item)
+
