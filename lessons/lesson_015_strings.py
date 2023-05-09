@@ -38,3 +38,12 @@ print(greeting[0:10:2]) # вывод с 0 по 10 символы с шагом 2
 
 # разворот строки
 print(greeting[::-1]) # начинаем с конца строки и до начала
+print()
+
+str = "Hello Python!"
+print(str[3])
+print("Hello Python!"[3])
+print(str[0:2])
+print(str[:-11])
+path = "Hello Python" + '!'
+print(path)
