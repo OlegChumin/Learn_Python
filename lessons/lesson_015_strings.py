@@ -16,3 +16,9 @@ print(greeting[-4]) # o
 #slicing - получение подстрок
 print(greeting[2:5]) #llo
 print(greeting[6:12]) #Python
+#с конца
+print(greeting[-5:-2]) #hoh
+
+print(greeting[5]) #пробел
+print(greeting[5:]) #вся строка от 5 символа  Python!!
+
