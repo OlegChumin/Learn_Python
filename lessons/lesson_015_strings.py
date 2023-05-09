@@ -23,3 +23,15 @@ print(greeting[5]) #пробел
 print(greeting[5:]) #вся строка от 5 символа  Python!!
 print(greeting[:5]) #вся строка до 5 символа  Hello
 
+print(greeting[:]) #вывод всей строки
+print()
+
+print(greeting)
+print(greeting[::2]) #вывод всей строки с шагом 2 HloPto!
+print(greeting)
+print(greeting[::3]) #вывод всей строки с шагом 3 HlPh!
+
+print(greeting)
+print(greeting[1::3]) #вывод всей строки с шагом 3 со второго символа eoyo!
+print(greeting[2::3]) #вывод всей строки с шагом 3 с третьего символа l tn
+print(greeting[0:10:2]) # вывод с 0 по 10 символы с шагом 2 HloPt
