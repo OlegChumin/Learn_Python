@@ -24,3 +24,7 @@ another_string = 'I want to lear "Python"'
 new_string = 'I\'m a programmer'
 another_new_string = "I want to lear \"Python\""
 
+print("\"DarkNetXakep! \"")
+print("\"DarkNetXakep! \"", end="")
+print("\"DarkNetXakep! \"")
+
