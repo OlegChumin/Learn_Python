@@ -42,3 +42,32 @@ another_string_with_triple_quotes = '''This is ' text with "triple quotes" '''
 print(another_string_with_triple_quotes)
 string_with_triple_quotes = """This is ' \ntext with "triple quotes" """
 print(string_with_triple_quotes)
+
+string_with_triple_quotes = """This is ' 
+text with 
+"triple quotes" """
+print(string_with_triple_quotes)
+
+name = "WHOAMI"
+surname = "UNIX"
+age = "47"
+print("Hi! My name is ", name , "I'm ", age, " years old.")
+print(f"Hi! My name is {name, surname}, I'm {age} years old.")
+
+text = """"
+Baa, baa, black sheep,
+Have you any wool?
+Yes sir, yes sir,
+Three bags full
+
+One for the master,
+One for the dame,
+And one for the little boy
+Who lives down the lane
+
+Baa, baa, black sheep,
+Have you any wool?
+Yes sir, yes sir,
+Three bags full
+"""
+print(text)
