@@ -21,4 +21,5 @@ print(greeting[-5:-2]) #hoh
 
 print(greeting[5]) #пробел
 print(greeting[5:]) #вся строка от 5 символа  Python!!
+print(greeting[:5]) #вся строка до 5 символа  Hello
 
