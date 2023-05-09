@@ -35,3 +35,10 @@ print(numbers)
 numbers = "1\t23\t456\t789"
 print(numbers)
 print("\tHello!    \n\r\tMy name is \r\n\t\"WHOAMI\"")
+
+string_with_triple_quotes = """This is ' text with "triple quotes" """
+print(string_with_triple_quotes)
+another_string_with_triple_quotes = '''This is ' text with "triple quotes" '''
+print(another_string_with_triple_quotes)
+string_with_triple_quotes = """This is ' \ntext with "triple quotes" """
+print(string_with_triple_quotes)
