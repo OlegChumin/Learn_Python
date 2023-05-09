@@ -27,3 +27,5 @@ deleted_item = new_list.pop(-2)
 print(new_list)
 print(deleted_item)
 
+
+
