@@ -27,4 +27,5 @@ another_new_string = "I want to lear \"Python\""
 print("\"DarkNetXakep! \"")
 print("\"DarkNetXakep! \"", end="")
 print("\"DarkNetXakep! \"")
+print("Hello! \n My name is \"WHOAMI\"")
 
