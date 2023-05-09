@@ -20,4 +20,6 @@ print(greeting)
 greeting += "!"
 print(greeting)
 
-#
+#string multiplication
+yummi = "Yum "
+print(yummi * 2)
