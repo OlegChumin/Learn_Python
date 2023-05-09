@@ -23,3 +23,11 @@ print(greeting)
 #string multiplication
 yummi = "Yum "
 print(yummi * 2)
+
+print(yummi.upper())
+print(yummi.lower())
+
+long_string = "This is the long string"
+print(long_string.split())
+print(long_string.split('s'))
+
