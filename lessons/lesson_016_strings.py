@@ -11,3 +11,9 @@ print(last_letter)
 new_first_name = first_two_letters + 'n' + last_letter
 print(new_first_name)
 
+greeting = 'Hello'
+print(greeting)
+greeting = greeting +" Python"
+print(greeting)
+greeting += "!"
+print(greeting)
