@@ -30,3 +30,8 @@ print("\"DarkNetXakep! \"")
 print("Hello! \n    My name is \"WHOAMI\"")
 print("Hello! \n     \rMy name is \"WHOAMI\"")
 
+numbers = "1234567"
+print(numbers)
+numbers = "1\t23\t456\t789"
+print(numbers)
+print("\tHello!    \n\r\tMy name is \r\n\t\"WHOAMI\"")
