@@ -12,3 +12,10 @@ print(car_model, car_color, car_year, car_door_number) #При использо�
 # в Python между выводимыми значениями добавляется пробел по умолчанию.
 car_color = "white"
 print(car_model, car_color, car_year, car_door_number)
+
+man1_age = 7
+man2_age = 11
+woman_age = 37
+ma3_age = 47
+print("Average age = ", (man1_age + man2_age + woman_age + ma3_age) / 4)
+
