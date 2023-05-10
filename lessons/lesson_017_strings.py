@@ -7,4 +7,5 @@ age = 23
 name = 'Jack'
 name_and_age = 'My name is {0}. I\'m {1} years old'.format(name, age)
 print(name_and_age)
+print(f'My name is {name}. I\'m {age} years old')
 
